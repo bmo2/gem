@@ -1,4 +1,4 @@
-# B M O 2
+# BMO2
 
 ## About
 
