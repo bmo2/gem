@@ -4,8 +4,7 @@
 
 bmo2 manages your text snippets on your command line.
 
-For more details about what boom is and how it works, check out
-[bmo2 website](http://bmo2.com).
+
 
 ## Install
 
