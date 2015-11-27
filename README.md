@@ -15,13 +15,13 @@ bmo2 manages your text snippets on your command line.
     $ bmo2 config
     Bmo2 Created a new list called "config".
 
-    $ boom config nginx /etc/nginx/conf
+    $ bmo2 config nginx /etc/nginx/conf
     Bmo2 "nginx" in "conf" is "/etc/nginx/conf". Got it.
 
-    $ boom nginx
+    $ bmo2 nginx
     Bmo2 Just copied /etc/nginx/conf to your clipboard.
 
-    $ boom delete conf nginx
+    $ bmo2 delete conf nginx
     Bmo2 nginx is gone forever.
 
 
