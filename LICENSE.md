@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) Peter Boriskin, x66w@ya.ru
+Copyright (c) Peter Boriskin, x66w@yandex.ru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
